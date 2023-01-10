@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+
+.moon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 100px;
+    width: 100px;
+    box-shadow: lightyellow 20px -15px 7px -1px inset;
+    border-radius: 100%;
+}
